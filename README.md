@@ -24,3 +24,7 @@ npm run dev (NODEMON)
 # Running basic tests with coverage
 npm run test
 
+
+# Example request
+- http://localhost:3000/v1/barcodes?code=00190500954014481606906809350314337370000000100 (Success)
+- http://localhost:3000/v1/barcodes?code=00190500954014481606906809350314037370000000100 (Error)
