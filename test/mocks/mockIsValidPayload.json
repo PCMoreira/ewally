@@ -1,0 +1,7 @@
+{ 
+    "data":
+    { "barCode": "00193373700000001000500940144816060680935031",
+      "amount": "1.00",
+      "expirationDate": "2007-12-31" },
+   "Errors":
+    { "field01": false, "field02": false, "field03": false, "factorK": false } }
