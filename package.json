@@ -4,6 +4,7 @@
   "description": "Node JS ewally challenge",
   "main": "index.js",
   "scripts": {
+    "start": "node ./api/server.js",
     "dev": "nodemon ./api/server.js",
     "test": "nyc --reporter=text mocha"
   },
